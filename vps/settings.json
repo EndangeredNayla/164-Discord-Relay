@@ -1,0 +1,12 @@
+{
+  "irc": {
+    "server": "irc.esper.net", // IRC Server
+    "port": "6667", // IRC Port (normally you wouldn't change this)
+    "channel": "" // IRC Channel Name (this just has to be something unique and unguessable)
+  },
+  "discord": {
+    "server": "", // Discord Server ID
+    "channel": "", // Discord Channel ID
+    "token": "" // Discord Channel ID
+  }
+}

@@ -1,0 +1,3 @@
+irc
+json5
+py-cord
